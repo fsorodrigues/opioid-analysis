@@ -1,0 +1,15 @@
+county,2006,2007,2008,2009,2010,2011,2012,total_pills,pills_per_person,top_pharmacy,top_pharmacy_pills,top_pharmacy_city,top_distributor,top_distributor_pills,top_manufacturer,top_manufacturer_pills
+Addison,11.3,5.5,2.9,2.5,3.3,8,3.4,5832740,22,"KPH Healthcare Services, Inc.",1099640,Vergennes,Burlington Drug Company,2026330,SpecGx LLC,1922200
+Bennington,4.9,5.8,5.5,5.6,5.6,5.6,9,8045390,31,"The Pharmacy, Inc.",2258330,Bennington,Burlington Drug Company,2043400,SpecGx LLC,4113200
+Caledonia,6.7,3.5,6,2.9,6.5,2.8,0,5913550,27,"KPH Healthcare Services, Inc.",943950,St. Johnsbury,McKesson Corporation,2824300,SpecGx LLC,2578900
+Chittenden,11.1,4.5,6.2,5.2,7,8.7,8,35030128,32,"Healthdirect Institutional Pharmacy Services, Inc.",3933930,Williston,McKesson Corporation,10311570,SpecGx LLC,12565500
+Essex,0,0,15.8,18.6,0,22,34.9,70200,1,"Primeau, Robert Earl MD",69800,Island Pond,Burlington Drug Company,69800,SpecGx LLC,46100
+Franklin,6.1,7.8,6.1,7.7,4,11,6.7,11147705,33,"KPH Healthcare Services, Inc.",2784600,St. Albans,McKesson Corporation,6046440,"Actavis Pharma, Inc.",4159700
+Grand Isle,0,0,0,13.2,0,0,12.7,392110,7,"MCGRX, Inc.",392110,South Hero,H. D. Smith,266110,SpecGx LLC,235000
+Lamoille,7.8,4.2,11.7,4.3,4.4,8.4,3.6,5124670,30,"KPH Healthcare Services, Inc.",2693360,Morrisville,McKesson Corporation,1904580,"Actavis Pharma, Inc.",1726900
+Orange,6.8,3.6,10.3,4,3.2,12.8,7.3,3090860,15,"KPH Healthcare Services, Inc.",1332300,Bradford,McKesson Corporation,1981970,SpecGx LLC,1446000
+Orleans,7.8,0,11.6,11.2,6.1,0,18.3,4934010,25,"KPH Healthcare Services, Inc.",1685160,Newport,McKesson Corporation,1743240,SpecGx LLC,2002500
+Rutland,9.8,19.6,15.9,12.8,8.1,20.3,5.2,11479970,26,High Mountain Corporation,1549200,Rutland,McKesson Corporation,3182140,SpecGx LLC,5538300
+Washington,13.6,11.7,8.6,6.8,3.3,7.9,6.5,12394230,29,"KPH Healthcare Services, Inc.",2752830,Barre,McKesson Corporation,3336290,SpecGx LLC,5387300
+Windham,5.4,8.9,18,6.7,6.4,11.5,11.7,11060080,35,Hotel Pharmacy,1507720,Brattleboro,McKesson Corporation,2642540,SpecGx LLC,3815800
+Windsor,16.9,11.5,14.7,9.6,4.9,9.1,10.4,8899060,22,"Springfield Pharmacy, Inc.",2355790,Springfield,McKesson Corporation,3619750,SpecGx LLC,4272300

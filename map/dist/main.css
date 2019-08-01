@@ -1,0 +1,120 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto:300,400,700);
+/* @import url(https://fonts.googleapis.com/css?family=Roboto:300,400,700|Roboto+Slab:400,700); */
+
+.d3-wrapper {
+    height: 600px;
+    position: relative;
+    font-family: "Roboto"
+}
+
+.map-container {
+    height: 100%;
+}
+
+.tooltip-chart {
+    height: 85px;
+}
+
+.tooltip-container {
+    position: absolute;
+    pointer-events: none;
+    background-color: gainsboro;
+    background-color: rgba(245, 245, 245, 0.95);
+    border-radius: 3px;
+    border: 1pt solid black;
+    opacity: 0;
+    padding: 0.5rem;
+    width: 200px;
+}
+
+@media (max-width:600px) {
+    .d3-wrapper {
+        height: 400px;
+    }
+
+    .tooltip-container {
+        width: 95%;
+        max-width: 95%;
+    }
+}
+
+.tooltip-text .tooltip-title {
+    font-size: 1.125rem;
+}
+
+.tooltip-text p {
+    font-size: 0.9rem;
+    margin: 0 0 0.5rem 0;
+}
+
+.tooltip-text .tooltip-item {
+    font-size: 0.7rem;
+    margin: 0;
+}
+
+.tooltip-text .tooltip-item:nth-child(even) {
+    font-size: 0.8rem;
+    margin: 0 0 0.5rem 0;
+}
+
+.tooltip-text .tooltip-chart-title {
+    font-size: 0.8rem;
+    font-weight: 700;
+    margin: 0 0 0.125rem 0;
+}
+
+.legend-title {
+    font-variant: small-caps;
+}
+
+.legend-label {
+    font-size: 0.65rem;
+}
+
+.map-path {
+    pointer-events: none;
+}
+
+.close-btn {
+    position: absolute;
+    top: 0;
+    right: 5px;
+}
+
+.close-btn:after {
+    font-weight:700;
+    font-size: 0.75rem;
+    content:'X';
+}
+
+.entry-content .caption {
+    font-size: 0.7rem;
+}
+
+.axis {
+    pointer-events: none;
+}
+
+/* hide domain path */
+.axis-y .domain,
+.axis-x .domain {
+    display: none;
+}
+
+/* hide y axis 0 */
+.axis-y .tick:first-of-type text {
+    display: none;
+}
+
+/* make y axis ticks dotted lines */
+.axis-y .tick:not(:first-of-type) line,
+.axis-x .tick line {
+    stroke: darkgrey;
+    stroke-dasharray: 1pt 2pt;
+}
+
+/* hide horizontal tick line */
+#state-rates .axis-y .tick:not(:first-of-type) line {
+    display: none
+}
+
